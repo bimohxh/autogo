@@ -11,12 +11,12 @@ npm install autogo -g
 
 ## Usage
 ```bash
-autogo <项目名>
+autogo <project name>
 ```
 
 Then
 ```bash
-cd <项目名>
+cd <project name>
 npm install
 gulp watch
 ```
