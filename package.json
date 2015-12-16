@@ -1,0 +1,27 @@
+{
+  "name": "autogo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomes-cn/autogo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "autogo": "./bin/autogo.js"
+  },
+  "bugs": {
+    "url": "https://github.com/awesomes-cn/autogo/issues"
+  },
+  "homepage": "https://github.com/awesomes-cn/autogo#readme",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "commander": "^2.9.0",
+    "fs-extra": "^0.26.2"
+  }
+}
